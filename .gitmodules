@@ -4,3 +4,7 @@
 [submodule "organized-me-api"]
 	path = organized-me-api
 	url = git@github.com:eavlongs/organized-me-api.git
+[submodule "git@github.com/eavlongs/organized-me"]
+	branch = main
+[submodule "git@github.com/eavlongs/organized-me-api"]
+	branch = main
