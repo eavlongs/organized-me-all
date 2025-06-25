@@ -1,0 +1,6 @@
+[submodule "organized-me"]
+	path = organized-me
+	url = git@github.com:eavlongs/organized-me.git
+[submodule "organized-me-api"]
+	path = organized-me-api
+	url = git@github.com:eavlongs/organized-me-api.git
